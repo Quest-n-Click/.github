@@ -1,6 +1,6 @@
-<p align="center"><img src="avatar.jpg" width="160" height="160" alt="The quest'n'click logo: a glowing pixel-art Q with a mouse pointer clicking it"></p>
+<p align="center"><img src="avatar.jpg" width="160" height="160" alt="The Quest'n'Click logo: a glowing pixel-art Q with a mouse pointer clicking it"></p>
 
-<h1 align="center">quest'n'click</h1>
+<h1 align="center">Quest'n'Click</h1>
 
 <p align="center"><b>An open-source point-and-click adventure engine for the browser.</b><br>
 Write the game as data, shape it in a visual Studio, prove it can be finished, ship it as a web game that installs on a phone and plays offline.</p>
