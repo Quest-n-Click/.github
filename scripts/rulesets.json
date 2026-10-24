@@ -1,0 +1,11 @@
+{
+  "comment": "Per-repository rulesets (a free organization has no organization rulesets). checks: the status checks main requires; [] until the repository has a CI.",
+  "repos": {
+    "quest-n-click/quest-n-click": { "checks": "keep" },
+    "quest-n-click/.github": { "checks": [] },
+    "quest-n-click/quest-n-click.github.io": { "checks": [] },
+    "quest-n-click/games": { "checks": [] },
+    "quest-n-click/studio-server": { "checks": [] },
+    "quest-n-click/minigames": { "checks": [] }
+  }
+}
