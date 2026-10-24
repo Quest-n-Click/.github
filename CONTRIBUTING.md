@@ -1,4 +1,4 @@
-# Contributing to quest'n'click
+# Contributing to Quest'n'Click
 
 *[Version française plus bas](#contribuer-à-questnclick)*
 
@@ -44,7 +44,7 @@ Everyone follows the [Code of Conduct](CODE_OF_CONDUCT.md). A vulnerability is r
 
 ---
 
-## Contribuer à quest'n'click
+## Contribuer à Quest'n'Click
 
 Merci d'être là. Cette page vaut pour tous les dépôts de l'organisation ; le `CONTRIBUTING.md` de chaque dépôt dit
 comment le lancer et le tester.
