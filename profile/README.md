@@ -1,4 +1,4 @@
-<p align="center"><img src="logo-text.png" width="600" alt="Quest'n'Click, open source point &amp; click engine"></p>
+<p align="center"><img src="logo.jpg" width="640" alt="The Quest'n'Click logo: a pixel-art editor window with a harbour scene, a dialogue graph and a pointer, among picture cards, a treasure map, an AI panel, a notebook and a coffee mug, under the words Quest'n'Click, open source point &amp; click engine"></p>
 
 <p align="center"><b>An open-source point-and-click adventure engine for the browser.</b><br>
 Write the game as data, shape it in a visual Studio, prove it can be finished, ship it as a web game that installs on a phone and plays offline.</p>
