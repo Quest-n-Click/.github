@@ -6,10 +6,10 @@
 Write the game as data, shape it in a visual Studio, prove it can be finished, ship it as a web game that installs on a phone and plays offline.</p>
 
 <p align="center">
-  <a href="https://quest-n-click.github.io/">Play the demo</a> ·
-  <a href="https://quest-n-click.github.io/studio.html">Open the Studio</a> ·
+  <a href="https://quest-n-click.github.io/play/">Play the demo</a> · <a href="https://quest-n-click.github.io/">Website</a> ·
+  <a href="https://quest-n-click.github.io/play/studio.html">Open the Studio</a> ·
   <a href="https://github.com/quest-n-click/quest-n-click/wiki">Documentation</a> ·
-  <a href="https://github.com/quest-n-click/quest-n-click/wiki/FR-Home">Documentation en français</a>
+  <a href="https://github.com/quest-n-click/quest-n-click/wiki/FR-Creer-Premier-Jeu">Documentation en français</a>
 </p>
 
 ## Where to go
@@ -20,7 +20,7 @@ Write the game as data, shape it in a visual Studio, prove it can be finished, s
 | work on the hosted, multi-user Studio (server, worker, deployment) | `studio-server` *(coming)* |
 | improve or play the sample games | `games` *(coming)* |
 | write or improve a minigame | `minigames` *(coming)* |
-| change the website | `quest-n-click.github.io` *(coming)* |
+| change the website | [quest-n-click.github.io](https://github.com/Quest-n-Click/quest-n-click.github.io) |
 
 Until a repository marked *coming* exists, its code lives in [quest-n-click](https://github.com/quest-n-click/quest-n-click).
 
